@@ -18,7 +18,7 @@ public class ChainPatternDemo {
     public static void main(String[] args) {
         AbstractLogger loggerChain = getChainOfLoggers();
 //        loggerChain.logMessage(AbstractLogger.INFO, "info");
-//        loggerChain.logMessage(AbstractLogger.DEBUG, "debug");
-        loggerChain.logMessage(AbstractLogger.ERROR, "error");
+        loggerChain.logMessage(AbstractLogger.DEBUG, "debug");
+//        loggerChain.logMessage(AbstractLogger.ERROR, "error");
     }
 }
