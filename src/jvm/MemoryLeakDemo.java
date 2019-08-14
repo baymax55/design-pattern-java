@@ -8,7 +8,7 @@ import java.util.TreeMap;
  * @author bx
  * @date 8/6/2019 9:43 AM
  */
-public class MemoryLeakDemo {
+public class giMemoryLeakDemo {
     static class Key {
         Integer id;
 
