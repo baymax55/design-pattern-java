@@ -2,13 +2,12 @@ package jvm;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 /**
  * @author bx
  * @date 8/6/2019 9:43 AM
  */
-public class giMemoryLeakDemo {
+public class MemoryLeakDemo {
     static class Key {
         Integer id;
 
