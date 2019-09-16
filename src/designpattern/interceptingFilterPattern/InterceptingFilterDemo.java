@@ -1,7 +1,7 @@
-package designpattern.InterceptingFilterPattern;
+package designpattern.interceptingFilterPattern;
 
-import designpattern.InterceptingFilterPattern.impl.AuthenticationFilter;
-import designpattern.InterceptingFilterPattern.impl.DebugFilter;
+import designpattern.interceptingFilterPattern.impl.AuthenticationFilter;
+import designpattern.interceptingFilterPattern.impl.DebugFilter;
 
 /**
  * @author bx

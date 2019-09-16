@@ -1,6 +1,6 @@
-package designpattern.InterceptingFilterPattern.impl;
+package designpattern.interceptingFilterPattern.impl;
 
-import designpattern.InterceptingFilterPattern.Filter;
+import designpattern.interceptingFilterPattern.Filter;
 
 /**
  * @author bx

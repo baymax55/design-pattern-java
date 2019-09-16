@@ -1,4 +1,4 @@
-package designpattern.InterceptingFilterPattern;
+package designpattern.interceptingFilterPattern;
 
 /**
  * @author bx
