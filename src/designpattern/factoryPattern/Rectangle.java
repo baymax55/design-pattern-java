@@ -1,4 +1,4 @@
-package designpattern.factorypattern;
+package designpattern.factoryPattern;
 
 /**
  * @author bx
